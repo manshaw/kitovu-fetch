@@ -200,3 +200,5 @@ app.get('/fetch_by_crop/:crop', async (req, res) => {
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
+
+//env updated
